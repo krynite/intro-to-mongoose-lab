@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "U3-IntroMongooseLab",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
